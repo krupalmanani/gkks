@@ -1,0 +1,24 @@
+education type in registration page(list all posible fields)
+specific initials (mr/mrs/)
+add member type flag in db like (gkks/normal)
+add education fields dropdown with all possible fields
+if city is ahmedabad then area dropdown will enable else need to add city manually
+unique email address and mobile validation
+
+edit profile section 
+email / mobile / birthdate disaboe while edit profile
+
+member section 
+normal user can view the list of members to view the details , user must have to login
+
+matrimonial
+On m
+- salary details in range
+- users native information
+- link of social media like FB, twitter, instgram, linkedin
+- other details in form (text aread)
+
+user shoul br able to change his status to edit matrimonial status
+
+
+
